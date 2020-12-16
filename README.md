@@ -1,4 +1,4 @@
-![Pixel art book](https://i.imgur.com/TgxzCsV.png)
+![Opalablue logo](https://i.imgur.com/TgxzCsV.png)
 ### Hi! I'm a illustrator/pixel artist still studying to become a Full Stack developer, but I will be happy to help as I can! ✌️
 
 - 🔭 I’m currently working on my learning path
